@@ -1,2 +1,2 @@
-# WechatGameDemo
-微信小游戏 demo
+# Answer
+答题类微信小游戏 demo
